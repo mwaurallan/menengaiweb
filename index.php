@@ -12,11 +12,11 @@
 
         <div class="swiper-container swiper-parent">
             <div class="swiper-wrapper">
-                <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/41.jpg');">
+                <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/46.png');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">UPHOME FUNERAL HOME</h2>
-                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">A Perfect Home Away From Home.</p>
+                            <h2 data-caption-animate="fadeInUp">Menengai Farmers Ltd</h2>
+                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">Best Highland Quality Tea.</p>
                         </div>
                     </div>
                 </div>
