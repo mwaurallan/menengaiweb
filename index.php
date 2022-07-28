@@ -95,7 +95,7 @@
 <!--                            <span class="before-heading">State of Art Coffins</span>-->
                             <h4>Going Green</h4>
                         </div>
-                        <p>On our display is all types of comfortable coffins both locally and international made,Upon purchase we offer free labelling .</p>
+                        <p>Our Enviroment matters to us..at Menengai farmers Enviromental Conservation is at the heart of operations .</p>
                     </div>
 
                     <div class="col-lg-4 bottommargin">
@@ -105,7 +105,7 @@
 <!--                            <span class="before-heading">Flexible &amp; Customizable.</span>-->
                             <h4>Quality Tea</h4>
                         </div>
-                        <p>We provide body transfers from Home to Uphome,Other Funeral Homes to Uphomes and Vice Versa</p>
+                        <p>Kenya Higlands are famed for qulity and tasty tea</p>
                     </div>
 
                 </div>
@@ -161,8 +161,8 @@
                     <div class="widget widget_links clearfix">
                         <h4>Contacts</h4>
                         <ul class="">
-                            <li><span><i class="icon-mail"></i>  </span>  info@uphome.co.ke </li>
-                            <li><span><i class="icon-mail"></i>  </span>  uuphome44@gmail.com </li>
+                            <li><span><i class="icon-mail"></i>  </span>  info@menengaifarmers.co.ke </li>
+                            <li><span><i class="icon-mail"></i>  </span>  menengaifarmers@gmail.com </li>
                             <li><span><i class="icon-mobile"></i>  </span>  +254721875392 / +254729544203 </li>
                         </ul>
                     </div>
@@ -175,8 +175,8 @@
                 <div class="widget subscribe-widget clearfix" >
                     <h4>Location</h4>
                     <ul>
-                        <li>Uplands Town</li>
-                        <li>Off Nairobi-Nakuru Higway</li>
+                        <li>Tigoni Centre</li>
+                        <li>Limuru Road</li>
                         <li>5Km From Limuru Town</li>
                     </ul>
 
@@ -196,7 +196,7 @@
         <div class="container clearfix">
 
             <div class="col_half">
-                Copyright © <?php  echo Date('D-M-Y') ;   ?>   Uphome Funeral Home.   |   <a href="index.php" target="_self" style="color:#FF5F52;">Uphome</a>
+                Copyright © <?php  echo Date('D-M-Y') ;   ?>   Menengai Farmers Ltd.   |   <a href="index.php" target="_self" style="color:#FF5F52;">Menengai Farmers</a>
             </div>
 
 
