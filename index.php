@@ -67,7 +67,7 @@
 
             <div class="heading-block topmargin-lg center">
                 <h2>Menengai Farmers Services and Products</h2>
-                <span class="divcenter">We pride ourselves in providing top class services that not only satisfies our clients but also comforts them in their difficult times.</span>
+                <span class="divcenter">We pride ourselves in providing top Quality Tea  that not only satisfies our clients but also nourishes their health and energy</span>
             </div>
         </div>
 
@@ -85,7 +85,7 @@
                             <!--<span class="before-heading">Scalable on Devices.</span>-->
                             <h4>Tea Growing</h4>
                         </div>
-                        <p>We provide hearse services at very competitive prices.Based on clients choice and affordability.Cost computation is based on distance and clients specific requirements</p>
+                        <p>Our Tradition in quality tea growing and management dates back 100 years..we evaluate quality changes and maintain a tradition of quality upgrades to our blending culture</p>
                     </div>
 
                     <div class="col-lg-4 bottommargin">
