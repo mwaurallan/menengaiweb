@@ -21,11 +21,12 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/40.jpg');">
+                <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/46.png');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
                             <h2 data-caption-animate="fadeInUp"></h2>
-                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">We Put Your Needs First.</p>
+                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">Menengai Farmers.</p>
+                            <p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">Quality Tea.</p>
                         </div>
                     </div>
                 </div>
@@ -65,7 +66,7 @@
         <div class="container clearfix">
 
             <div class="heading-block topmargin-lg center">
-                <h2>Uphome Services Portfolio</h2>
+                <h2>Menengai Farmers Services and Products</h2>
                 <span class="divcenter">We pride ourselves in providing top class services that not only satisfies our clients but also comforts them in their difficult times.</span>
             </div>
         </div>
@@ -78,31 +79,31 @@
 
                     <div class="col-lg-4 bottommargin">
 <!--                        <i class="i-plain color i-large icon-ambulance inline-block" style="margin-bottom:15px;font-size:23px;"></i>-->
-                        <div class="col-md-9 col-padding" style="background: url('images/hearse_one.jpeg') center center no-repeat; background-size: cover;"></div>
+                        <div class="col-md-9 col-padding" style="background: url('images/hearse_one2.png') center center no-repeat; background-size: cover;"></div>
                         <!--<i class="icon-list"></i> icon-list-->
                         <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
                             <!--<span class="before-heading">Scalable on Devices.</span>-->
-                            <h4>Hearse Service</h4>
+                            <h4>Tea Growing</h4>
                         </div>
                         <p>We provide hearse services at very competitive prices.Based on clients choice and affordability.Cost computation is based on distance and clients specific requirements</p>
                     </div>
 
                     <div class="col-lg-4 bottommargin">
 <!--                        <i class="i-plain color i-large icon-line2-energy inline-block" style="margin-bottom: 15px;"></i>-->
-                        <div class="col-md-9 col-padding" style="background: url('images/coffin6.jpg') center center no-repeat; background-size: cover;"></div>
+                        <div class="col-md-9 col-padding" style="background: url('images/hearse_two2.png') center center no-repeat; background-size: cover;"></div>
                         <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
 <!--                            <span class="before-heading">State of Art Coffins</span>-->
-                            <h4>State  Of Art Coffins</h4>
+                            <h4>Going Green</h4>
                         </div>
                         <p>On our display is all types of comfortable coffins both locally and international made,Upon purchase we offer free labelling .</p>
                     </div>
 
                     <div class="col-lg-4 bottommargin">
 <!--                        <i class="i-plain color i-large icon-line2-equalizer inline-block" style="margin-bottom: 15px;"></i>-->
-                        <div class="col-md-9 col-padding" style="background: url('images/hearse_two.jpeg') center center no-repeat; background-size: cover;"></div>
+                        <div class="col-md-9 col-padding" style="background: url('images/hearse_two22.png') center center no-repeat; background-size: cover;"></div>
                         <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
 <!--                            <span class="before-heading">Flexible &amp; Customizable.</span>-->
-                            <h4>Body Transfers</h4>
+                            <h4>Quality Tea</h4>
                         </div>
                         <p>We provide body transfers from Home to Uphome,Other Funeral Homes to Uphomes and Vice Versa</p>
                     </div>
